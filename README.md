@@ -1,1 +1,1 @@
-# Lab01
+This repository contains my web app on covid-19. The application is using the John Hopkins covid-19 API to get the data for the dashboard. The dashboard contains four separate tabs that contain descriptives based on the entered country ISO and dates. These descriptives include data on the confirmed cases and deaths, and trend line analysis.
