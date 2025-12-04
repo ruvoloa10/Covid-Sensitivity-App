@@ -1,0 +1,51 @@
+{
+  "name": "covid-sensitivity-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A reactive COVID-19 statistics dashboard for sensitivity analysis using a 3P API",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "proxy": "http://localhost:3000",
+    "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+}
+
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.3.5",
+    "axios": "^1.6.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.7.2"
+  },
+  "keywords": [
+    "react",
+    "covid",
+    "dashboard",
+    "sensitivity-analysis",
+    "api"
+  ],
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

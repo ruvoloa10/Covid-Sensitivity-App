@@ -1,0 +1,16 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 2rem;
+  background-color: #f9f9f9;
+}
+
+.dashboard {
+  margin-top: 2rem;
+}
+
+input {
+  margin-left: 1rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
